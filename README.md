@@ -13,9 +13,14 @@ as well as compiled bytecode. The compiled ones doesn't have icons because for s
 my python compiler does not support building icons inside my operating system.
 
 "I am a Linux Mint user, by the way" :P
-'cause I'm a newbie in Linux and in Python (I don't even know what I'm saying at this point)
+'cause I'm a newbie in Linux (this is my 3rd month since jumping from MS Windows10 - that TPM req is a b8ch!) and in Python (I'm forced to learn this language coz, dang it! I missed AutoHotkey on Windows).
+And boy! This is my very minute on Github! Why am I even here?
+
+(I don't even know what I'm saying at this point)
 :P
 
 Anyways, hope you enjoy this simple game.
+
+Special Thanks to Thuận tập viết Code for contributions to my first Jan-Ken-Pon code.
 
 Please subscribe to my youtube channel: youtube.com/motojin
